@@ -1,1 +1,4 @@
 
+<div id="footer">
+ For more Information please click on the link
+</div>
