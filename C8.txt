@@ -3,5 +3,5 @@ Geburtsdatum: 21.11.2001
 Alter: 19
 Straße: Musterstraße 2
 Wohnort: Salzburg
-Augenfarbe: Grün-bläulich
+Sozialversicherungsnummer: 123456
 Haarfarbe: Braun/Schwarz
