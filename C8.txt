@@ -1,4 +1,5 @@
 Name: Dejan Klickovic
 Geburtsdatum: 21.11.2001
 Alter: 19
-
+Straße: Musterstraße 2
+Wohnort: Salzburg
